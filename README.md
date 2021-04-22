@@ -1,4 +1,4 @@
-# Unit Converter (MATLAB App Designer GUI)
+# Traffic Light (MATLAB Simulink)
 
 ### Table of Contents
 * [Project Description](#description)
@@ -8,7 +8,7 @@
 <a name="description"></a>
 # Project Description
 * Final project for OENG1207 – Digital Fundaments
-* Traffic light system in MATLAB/Simulink environment
+* Traffic light system in MATLAB/Simulink environment, deployed on Arduino
 * Full project report can be found in docs folder
 
 ***Screenshots***
